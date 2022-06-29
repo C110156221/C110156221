@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 29 07:59:29 2020
-
-@author: ACER PREDATOR
-"""
 
 n=int(input("請輸入組數："))
 list1=[]
