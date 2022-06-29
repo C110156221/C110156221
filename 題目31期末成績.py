@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 29 22:36:25 2020
-
-@author: ACER PREDATOR
-"""
 
 l1=[]
 l2=["國文","英文","微積分","體育","程式設計"]
