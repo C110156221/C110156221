@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 29 03:54:48 2020
-
-@author: ACER PREDATOR
-"""
 
 dict1 = {}
 n = int(input("請輸入n值："))
