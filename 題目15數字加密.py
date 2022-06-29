@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 29 07:47:52 2020
-
-@author: ACER PREDATOR
-"""
 
 data1=input("輸入一組四位數字：")
 l1=list(map(int,data1))
