@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 29 05:08:28 2020
-
-@author: ACER PREDATOR
-"""
 
 a=b=1
 m=int(input("請輸入正整數m的值："))
