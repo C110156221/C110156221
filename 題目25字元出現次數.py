@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 29 08:34:59 2020
 
-@author: ACER PREDATOR
-"""
 
 data1=input("檢測的字串(end結束)：")
 data2=input("檢測的單一字元：")
