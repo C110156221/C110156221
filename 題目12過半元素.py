@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-@author: 陳劭
-"""
 
 n = input("輸入一整數序列為:").split(" ")
 l1=[]
