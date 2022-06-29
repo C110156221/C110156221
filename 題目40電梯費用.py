@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec 30 23:50:51 2020
-
-@author: ACER PREDATOR
-"""
 
 f=int(input("搭了幾次電梯："))
 a=1
