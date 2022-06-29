@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 29 08:15:35 2020
-
-@author: ACER PREDATOR
-"""
 
 n=int(input("輸入查詢組數N為："))
 dict1={"123 456":"9000","456 789":"5000","789 888":"6000",
