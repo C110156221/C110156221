@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan 16 02:39:26 2021
-
-@author: ACER PREDATOR
-"""
 
 def gcd(a,b):
     if b==0:
