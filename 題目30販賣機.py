@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 29 09:02:04 2020
-
-@author: ACER PREDATOR
-"""
 
 l1=[]
 data1=int(input("小明身上有幾元："))
