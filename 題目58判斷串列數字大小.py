@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 29 01:54:59 2020
 
-@author: ACER PREDATOR
-"""
 import heapq
 l1=[]
 l2=[]
