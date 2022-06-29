@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec 30 00:43:29 2020
 
-@author: ACER PREDATOR
-"""
-
-#  coding:utf-8
 rows = int(input('输入列数： '))
 i = j = k = 1
 for i in range(rows):
