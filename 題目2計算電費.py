@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 20 12:43:19 2020
 
-@author: ACER PREDATOR
-"""
 
 a=int(input("請輸入一個正整數："))
 
