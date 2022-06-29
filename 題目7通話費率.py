@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 29 06:46:51 2020
-
-@author: ACER PREDATOR
-"""
 
 data1,data2=eval(input("請輸入月租費型式及通話時間："))
 if data1==186:
