@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 29 04:37:40 2020
-
-@author: ACER PREDATOR
-"""
 
 data1=int(input("請輸入西元年："))
 data2= data1%12
