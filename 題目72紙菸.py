@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
 
 n=int(input("請輸入n："))
 k=int(input("請輸入k："))
