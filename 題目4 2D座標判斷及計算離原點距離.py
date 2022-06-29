@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 29 04:50:00 2020
-
-@author: ACER PREDATOR
-"""
 
 x=int(input("X軸座標："))
 y=int(input("Y軸座標："))
