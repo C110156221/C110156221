@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 29 03:51:34 2020
-
-@author: ACER PREDATOR
-"""
 
 a=set(['Jonn','Mary','Tina','Fiona','Claire','Eva','Ben','Bill','Bert'])
 eng=set(['Jonn','Mary','Fiona','Claire','Ben','Bill'])
