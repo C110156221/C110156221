@@ -1,5 +1,4 @@
 
-
 date=input("請輸入月及日為:").split()
 a=list(map(int,date))
 for i in range(len(a)):
