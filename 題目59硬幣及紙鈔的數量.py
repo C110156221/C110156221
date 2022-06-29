@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 29 01:30:13 2020
-
-@author: ACER PREDATOR
-"""
 
 data1=int(input("輸入金額："))
 a=0
