@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 29 08:26:26 2020
 
-@author: ACER PREDATOR
-"""
 
 data1=input("請輸入考試次數(<=10)：")
 data2=input("請輸入學生數(<=10)：")
