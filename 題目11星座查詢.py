@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-@author: 陳柏劭
-"""
 
 date=input("請輸入月及日為:").split()
 a=list(map(int,date))
