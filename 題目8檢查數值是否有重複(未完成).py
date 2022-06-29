@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 29 06:59:24 2020
-
-@author: ACER PREDATOR
-"""
 
 data1=int(input("請輸入第一行正整數："))
 data2=input("第二行中數列中的數字為：").split(" ")
