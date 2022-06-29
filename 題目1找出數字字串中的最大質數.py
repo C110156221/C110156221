@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec 26 22:40:06 2020
 
-@author: user
-"""
 
 n=input("請輸入正整數:")
 prime=[2]
