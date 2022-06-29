@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec 30 00:13:16 2020
-
-@author: ACER PREDATOR
-"""
 
 data1=int(input("輸入一正整數："))
 data2=data1%2
