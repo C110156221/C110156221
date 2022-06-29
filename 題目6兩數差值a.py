@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 29 09:02:49 2020
-
-@author: 陳博劭
-"""
 
 a=""
 data1=input("輸入值為:").split(",")
