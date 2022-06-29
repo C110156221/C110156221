@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan 16 02:41:53 2021
-
-@author: ACER PREDATOR
-"""
 
 data1 = input("請輸入第一組數字:")
 data2 = input("請輸入第二組數字:")
